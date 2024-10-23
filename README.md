@@ -1,0 +1,1 @@
+# sistema-pagamento-padrao-comportamental-strategy
